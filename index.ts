@@ -2,9 +2,9 @@
  * This is a program creates a random number 
  * that the user tries to guess
  *
- * @author  Curtis Edwards
+ * @author  Emmanuel.FN
  * @version 1.0
- * @since   2024-02-26
+ * @since   2024-03-14
  */
 
 import { createPrompt } from 'bun-promptx'
